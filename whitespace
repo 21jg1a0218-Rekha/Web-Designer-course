@@ -1,0 +1,12 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <titlt>White space</title>
+    </head>
+    <body>
+        <p>I am Kanchana Rekha</p>
+        <p>I am from <br>3rd<pre>EEE.</p>
+        <p>I am studying </pre>in <br>GVPCEW</p>
+    </body>
+</html>
+    
