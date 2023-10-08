@@ -1,0 +1,10 @@
+// To print hello world
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>exercise of example1</title>
+    </head>
+    <body>
+       Hello world 
+    </body>
+</html>
