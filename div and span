@@ -1,0 +1,11 @@
+<!==div and span-->
+<!DOCTYPE html>
+<html>
+    <head> 
+        <title>bold</title>
+    </head>
+    <body>
+        <div style="color: blue;">I am Kanchana .I am from veeraghtattam.</div>
+        <span style="color: pink;">my college name is gvpcew</span>
+    </body>
+</html>
