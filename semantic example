@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title> exercise 3</title>
+    </head>
+    <body>
+        <section>
+            <h1>My Heading</h1>
+            <section>
+                <p>Home page</p>
+                <p>first paragraph text this one is <strong>bolded,</strong>this is <emp>itallic!!!</emp></p>
+                <p>second paragraph text</p>
+                <p>third paragraph text
+                    <br>on a new line using the break </p>
+            </section>
+            <section>Just some plain text</section>
+            <footer>copyright my website</footer>
+            </section>
+    </body>
+</html>
