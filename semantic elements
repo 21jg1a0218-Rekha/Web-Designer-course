@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title> exercise 3</title>
+    </head>
+    <body>
+    <section>
+        <h1>forest elephant</h1>
+        <section>
+            <h1>introduction</h1>
+            <p>in this session ,we discussed the lesser known forest elements</p>
+        </section>
+        <section>
+            <h1>Habitat</h1>
+            <p>forest elephants donot live in trees but among them</p>
+        </section>
+        <aside>
+            <p>advertising block</p>
+        </aside>
+    </section>
+    <footer>
+        <p>(c)2010 the example company</p>
+    </footer>
+</body>
+</html>
