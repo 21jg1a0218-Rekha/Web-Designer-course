@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title> exercise 5</title>
+    </head><
+    <body>
+        <section>
+        <h1>divs & spans to organize content<h1>
+            <nav><a href="#paragraph1">paragraph1</a><br></nav>
+        </section>
+         <section>
+        <p>the html content element (div) is the generic container for flow content .It has no effect on the content or layout until styled using css</p>
+        
+    </section>
+    <section id="paragraph1">
+        <h2>paragraph 1</h2>
+        <p>the html content element (div) is the generic container for flow content ,</p>
+    </section>
+    </body>
+    </html>
+
+
+   
